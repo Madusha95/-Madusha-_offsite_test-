@@ -1,0 +1,501 @@
+text,intent
+Cancel my booking,book_flight
+Goodbye!,greeting
+I want to book a flight,cancel_reservation
+Cancel my booking,book_flight
+Cancel my booking,goodbye
+Hi there!,cancel_reservation
+I have a complaint,order_status
+Goodbye!,cancel_reservation
+Cancel my booking,cancel_reservation
+Cancel my booking,order_status
+Hi there!,complaint
+Hi there!,order_status
+I have a complaint,cancel_reservation
+Goodbye!,order_status
+I want to book a flight,complaint
+I have a complaint,book_flight
+I want to book a flight,order_status
+Where is my order?,order_status
+Cancel my booking,cancel_reservation
+Goodbye!,book_flight
+I have a complaint,greeting
+Cancel my booking,greeting
+Goodbye!,goodbye
+Goodbye!,order_status
+Goodbye!,order_status
+Cancel my booking,book_flight
+I have a complaint,complaint
+Hi there!,greeting
+Cancel my booking,goodbye
+Goodbye!,book_flight
+I have a complaint,order_status
+Where is my order?,greeting
+I want to book a flight,goodbye
+Goodbye!,cancel_reservation
+Where is my order?,greeting
+Hi there!,goodbye
+Goodbye!,book_flight
+Where is my order?,cancel_reservation
+Goodbye!,goodbye
+Cancel my booking,goodbye
+I have a complaint,order_status
+Where is my order?,complaint
+I have a complaint,greeting
+Cancel my booking,order_status
+Cancel my booking,cancel_reservation
+I have a complaint,complaint
+Where is my order?,goodbye
+I have a complaint,order_status
+I have a complaint,complaint
+I want to book a flight,greeting
+Where is my order?,cancel_reservation
+I want to book a flight,book_flight
+Goodbye!,order_status
+I have a complaint,cancel_reservation
+Goodbye!,book_flight
+Where is my order?,order_status
+I have a complaint,cancel_reservation
+Goodbye!,cancel_reservation
+Hi there!,complaint
+Cancel my booking,order_status
+I have a complaint,cancel_reservation
+Cancel my booking,goodbye
+I want to book a flight,order_status
+Goodbye!,cancel_reservation
+I want to book a flight,complaint
+I have a complaint,book_flight
+Cancel my booking,book_flight
+Cancel my booking,goodbye
+Goodbye!,order_status
+I have a complaint,complaint
+Hi there!,cancel_reservation
+Hi there!,cancel_reservation
+Goodbye!,book_flight
+I have a complaint,complaint
+Goodbye!,goodbye
+I have a complaint,book_flight
+I want to book a flight,book_flight
+Goodbye!,goodbye
+I have a complaint,order_status
+Hi there!,cancel_reservation
+I have a complaint,order_status
+I have a complaint,complaint
+Goodbye!,greeting
+I want to book a flight,greeting
+I want to book a flight,greeting
+I want to book a flight,goodbye
+I want to book a flight,book_flight
+Where is my order?,order_status
+Goodbye!,cancel_reservation
+Cancel my booking,greeting
+Goodbye!,order_status
+Where is my order?,greeting
+I want to book a flight,greeting
+Where is my order?,cancel_reservation
+Hi there!,complaint
+Hi there!,complaint
+Goodbye!,complaint
+Goodbye!,goodbye
+Cancel my booking,book_flight
+Cancel my booking,goodbye
+Hi there!,order_status
+I want to book a flight,goodbye
+Where is my order?,order_status
+Cancel my booking,order_status
+I have a complaint,book_flight
+Cancel my booking,cancel_reservation
+I want to book a flight,book_flight
+I want to book a flight,complaint
+Goodbye!,complaint
+Where is my order?,goodbye
+I want to book a flight,order_status
+Cancel my booking,greeting
+Cancel my booking,greeting
+Hi there!,order_status
+I want to book a flight,book_flight
+I have a complaint,cancel_reservation
+Goodbye!,book_flight
+Where is my order?,order_status
+I have a complaint,order_status
+Goodbye!,cancel_reservation
+Cancel my booking,goodbye
+I have a complaint,goodbye
+Goodbye!,cancel_reservation
+Cancel my booking,goodbye
+Cancel my booking,greeting
+Cancel my booking,goodbye
+Cancel my booking,goodbye
+Cancel my booking,goodbye
+Hi there!,greeting
+I have a complaint,goodbye
+Goodbye!,complaint
+Hi there!,greeting
+Hi there!,cancel_reservation
+I want to book a flight,book_flight
+I want to book a flight,cancel_reservation
+I want to book a flight,book_flight
+Where is my order?,cancel_reservation
+I want to book a flight,complaint
+Goodbye!,book_flight
+Hi there!,book_flight
+Goodbye!,order_status
+I have a complaint,book_flight
+I want to book a flight,book_flight
+Where is my order?,order_status
+I have a complaint,goodbye
+Where is my order?,goodbye
+I have a complaint,order_status
+Hi there!,greeting
+Goodbye!,book_flight
+Cancel my booking,book_flight
+Goodbye!,order_status
+I want to book a flight,order_status
+Cancel my booking,greeting
+Where is my order?,complaint
+Hi there!,goodbye
+Hi there!,cancel_reservation
+Where is my order?,complaint
+I want to book a flight,goodbye
+Where is my order?,book_flight
+I have a complaint,complaint
+I want to book a flight,order_status
+Cancel my booking,greeting
+Where is my order?,goodbye
+I want to book a flight,greeting
+Cancel my booking,goodbye
+Where is my order?,complaint
+Hi there!,book_flight
+Where is my order?,cancel_reservation
+Goodbye!,greeting
+Where is my order?,greeting
+Goodbye!,cancel_reservation
+Cancel my booking,greeting
+Where is my order?,greeting
+Cancel my booking,goodbye
+Cancel my booking,goodbye
+I want to book a flight,cancel_reservation
+Cancel my booking,book_flight
+Cancel my booking,complaint
+Where is my order?,complaint
+Where is my order?,greeting
+Hi there!,book_flight
+I want to book a flight,cancel_reservation
+Cancel my booking,cancel_reservation
+I want to book a flight,goodbye
+Goodbye!,greeting
+Cancel my booking,order_status
+I want to book a flight,cancel_reservation
+Hi there!,greeting
+Hi there!,book_flight
+Cancel my booking,goodbye
+Goodbye!,complaint
+Hi there!,book_flight
+Hi there!,cancel_reservation
+Goodbye!,cancel_reservation
+I want to book a flight,book_flight
+Hi there!,cancel_reservation
+Where is my order?,greeting
+I have a complaint,cancel_reservation
+I have a complaint,goodbye
+Hi there!,greeting
+I want to book a flight,order_status
+I want to book a flight,cancel_reservation
+Cancel my booking,cancel_reservation
+Where is my order?,goodbye
+I want to book a flight,goodbye
+Goodbye!,complaint
+Where is my order?,book_flight
+I have a complaint,book_flight
+Where is my order?,book_flight
+Goodbye!,goodbye
+Hi there!,book_flight
+Goodbye!,book_flight
+Goodbye!,order_status
+Hi there!,book_flight
+Hi there!,cancel_reservation
+Hi there!,complaint
+Hi there!,goodbye
+Hi there!,greeting
+Goodbye!,complaint
+Cancel my booking,order_status
+Cancel my booking,goodbye
+I want to book a flight,goodbye
+Cancel my booking,cancel_reservation
+I have a complaint,complaint
+Cancel my booking,complaint
+Goodbye!,book_flight
+Hi there!,cancel_reservation
+Hi there!,book_flight
+Goodbye!,book_flight
+I have a complaint,goodbye
+Cancel my booking,complaint
+Goodbye!,book_flight
+I want to book a flight,order_status
+Hi there!,order_status
+Where is my order?,complaint
+I want to book a flight,order_status
+I have a complaint,goodbye
+I want to book a flight,cancel_reservation
+Goodbye!,greeting
+Cancel my booking,book_flight
+Hi there!,greeting
+I have a complaint,cancel_reservation
+I have a complaint,cancel_reservation
+Where is my order?,goodbye
+I want to book a flight,order_status
+Where is my order?,order_status
+Cancel my booking,cancel_reservation
+Cancel my booking,goodbye
+Where is my order?,goodbye
+Hi there!,complaint
+Cancel my booking,book_flight
+Where is my order?,order_status
+I want to book a flight,cancel_reservation
+Where is my order?,complaint
+Where is my order?,greeting
+Goodbye!,order_status
+Cancel my booking,book_flight
+Hi there!,goodbye
+Hi there!,cancel_reservation
+Goodbye!,order_status
+I have a complaint,greeting
+Hi there!,book_flight
+Where is my order?,book_flight
+Goodbye!,complaint
+I want to book a flight,order_status
+Cancel my booking,greeting
+Cancel my booking,book_flight
+Cancel my booking,cancel_reservation
+Where is my order?,book_flight
+I want to book a flight,greeting
+Goodbye!,goodbye
+Goodbye!,goodbye
+Cancel my booking,complaint
+I want to book a flight,order_status
+I want to book a flight,greeting
+I want to book a flight,complaint
+Hi there!,book_flight
+Hi there!,book_flight
+Cancel my booking,goodbye
+I want to book a flight,complaint
+I have a complaint,goodbye
+I want to book a flight,cancel_reservation
+Goodbye!,goodbye
+Goodbye!,cancel_reservation
+Cancel my booking,book_flight
+I have a complaint,complaint
+I want to book a flight,cancel_reservation
+I have a complaint,complaint
+Cancel my booking,complaint
+Goodbye!,cancel_reservation
+Goodbye!,order_status
+Hi there!,goodbye
+Cancel my booking,cancel_reservation
+Cancel my booking,book_flight
+I want to book a flight,complaint
+I want to book a flight,greeting
+Hi there!,cancel_reservation
+Where is my order?,goodbye
+I have a complaint,complaint
+Where is my order?,order_status
+Where is my order?,book_flight
+Cancel my booking,order_status
+I have a complaint,greeting
+Cancel my booking,cancel_reservation
+I have a complaint,complaint
+Goodbye!,cancel_reservation
+Cancel my booking,goodbye
+Cancel my booking,cancel_reservation
+Cancel my booking,book_flight
+Hi there!,greeting
+Cancel my booking,order_status
+I want to book a flight,greeting
+I want to book a flight,complaint
+I have a complaint,cancel_reservation
+Goodbye!,complaint
+Hi there!,order_status
+I have a complaint,complaint
+I want to book a flight,goodbye
+Hi there!,greeting
+Hi there!,order_status
+Goodbye!,order_status
+Hi there!,order_status
+Cancel my booking,book_flight
+Hi there!,greeting
+Goodbye!,complaint
+I have a complaint,order_status
+Goodbye!,greeting
+Goodbye!,order_status
+I want to book a flight,goodbye
+Cancel my booking,goodbye
+I want to book a flight,goodbye
+I have a complaint,cancel_reservation
+Where is my order?,order_status
+I have a complaint,cancel_reservation
+Cancel my booking,greeting
+Hi there!,cancel_reservation
+Goodbye!,greeting
+Where is my order?,greeting
+Cancel my booking,greeting
+I want to book a flight,complaint
+Goodbye!,cancel_reservation
+I have a complaint,complaint
+I want to book a flight,order_status
+Cancel my booking,cancel_reservation
+Cancel my booking,order_status
+I have a complaint,order_status
+Where is my order?,greeting
+I have a complaint,cancel_reservation
+Hi there!,order_status
+I want to book a flight,goodbye
+Where is my order?,order_status
+Goodbye!,goodbye
+Hi there!,cancel_reservation
+Where is my order?,complaint
+I want to book a flight,cancel_reservation
+Cancel my booking,complaint
+Goodbye!,complaint
+I have a complaint,cancel_reservation
+I want to book a flight,order_status
+Hi there!,book_flight
+Hi there!,order_status
+Cancel my booking,order_status
+Cancel my booking,greeting
+Goodbye!,greeting
+I have a complaint,order_status
+Goodbye!,goodbye
+Cancel my booking,complaint
+Cancel my booking,greeting
+Hi there!,order_status
+Cancel my booking,book_flight
+Where is my order?,goodbye
+I want to book a flight,cancel_reservation
+Cancel my booking,order_status
+Goodbye!,order_status
+I have a complaint,complaint
+I have a complaint,goodbye
+I have a complaint,greeting
+Where is my order?,greeting
+Goodbye!,greeting
+Where is my order?,cancel_reservation
+Cancel my booking,goodbye
+I want to book a flight,goodbye
+I have a complaint,greeting
+Goodbye!,greeting
+I have a complaint,complaint
+Where is my order?,book_flight
+Hi there!,book_flight
+Cancel my booking,order_status
+I want to book a flight,order_status
+Cancel my booking,goodbye
+Hi there!,goodbye
+I want to book a flight,cancel_reservation
+Hi there!,cancel_reservation
+Cancel my booking,book_flight
+Where is my order?,order_status
+Cancel my booking,book_flight
+Cancel my booking,book_flight
+Cancel my booking,order_status
+Goodbye!,cancel_reservation
+Hi there!,complaint
+Hi there!,complaint
+I have a complaint,complaint
+Hi there!,order_status
+I have a complaint,greeting
+Goodbye!,greeting
+Where is my order?,greeting
+I have a complaint,goodbye
+Cancel my booking,cancel_reservation
+Where is my order?,cancel_reservation
+Goodbye!,goodbye
+Hi there!,book_flight
+I have a complaint,complaint
+Cancel my booking,greeting
+I want to book a flight,complaint
+I want to book a flight,greeting
+Where is my order?,complaint
+Hi there!,book_flight
+I want to book a flight,complaint
+Where is my order?,complaint
+Goodbye!,order_status
+Where is my order?,complaint
+Where is my order?,order_status
+Where is my order?,cancel_reservation
+Cancel my booking,goodbye
+Where is my order?,complaint
+I have a complaint,cancel_reservation
+Where is my order?,order_status
+Cancel my booking,complaint
+Cancel my booking,complaint
+Goodbye!,book_flight
+Hi there!,cancel_reservation
+I want to book a flight,greeting
+I want to book a flight,greeting
+Where is my order?,book_flight
+Goodbye!,order_status
+Where is my order?,greeting
+I want to book a flight,greeting
+Cancel my booking,goodbye
+Hi there!,cancel_reservation
+Goodbye!,order_status
+Cancel my booking,complaint
+Hi there!,cancel_reservation
+Goodbye!,order_status
+Goodbye!,greeting
+I want to book a flight,goodbye
+Cancel my booking,cancel_reservation
+Goodbye!,greeting
+I have a complaint,order_status
+Goodbye!,cancel_reservation
+Hi there!,complaint
+I want to book a flight,cancel_reservation
+Where is my order?,greeting
+I want to book a flight,cancel_reservation
+Where is my order?,complaint
+Cancel my booking,goodbye
+Cancel my booking,goodbye
+Goodbye!,greeting
+I have a complaint,order_status
+Cancel my booking,greeting
+Goodbye!,goodbye
+I want to book a flight,book_flight
+Cancel my booking,book_flight
+I want to book a flight,cancel_reservation
+I want to book a flight,complaint
+I have a complaint,cancel_reservation
+Cancel my booking,book_flight
+I want to book a flight,goodbye
+I have a complaint,cancel_reservation
+I have a complaint,greeting
+Cancel my booking,complaint
+I have a complaint,greeting
+Cancel my booking,complaint
+Cancel my booking,goodbye
+Where is my order?,cancel_reservation
+I want to book a flight,complaint
+Hi there!,greeting
+Cancel my booking,cancel_reservation
+I want to book a flight,cancel_reservation
+I have a complaint,greeting
+Goodbye!,book_flight
+Cancel my booking,complaint
+I have a complaint,greeting
+I have a complaint,goodbye
+I have a complaint,order_status
+I have a complaint,greeting
+I have a complaint,cancel_reservation
+Cancel my booking,cancel_reservation
+Hi there!,greeting
+Where is my order?,order_status
+I have a complaint,greeting
+I have a complaint,order_status
+Where is my order?,order_status
+Cancel my booking,goodbye
+I want to book a flight,complaint
+Goodbye!,cancel_reservation
+Goodbye!,cancel_reservation
+I want to book a flight,order_status
+Cancel my booking,cancel_reservation
+Goodbye!,book_flight
+Where is my order?,order_status
