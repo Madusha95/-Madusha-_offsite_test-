@@ -4,7 +4,7 @@ import argparse
 
 # Set up command-line arguments
 parser = argparse.ArgumentParser()
-parser.add_argument('--save_video', action='store_true', help='Save output video')
+parser.add_argument('--save', action='store_true', help='Save output video')
 args = parser.parse_args()
 
 # Load YOLOv5 model
